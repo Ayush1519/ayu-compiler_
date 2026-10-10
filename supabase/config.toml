@@ -1,0 +1,7 @@
+project_id = "yxnpttgqcrdvwlamlllr"
+
+[functions.execute-code]
+verify_jwt = false
+
+[functions.ayu-ai]
+verify_jwt = false
